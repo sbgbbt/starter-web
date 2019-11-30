@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 Add to remote repo
 
 Add to git repo
+
+Add to staging area
+
+Add to working dir
