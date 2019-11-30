@@ -13,3 +13,5 @@ Add to git repo
 Add to staging area
 
 Add to working dir
+
+##Copyright
