@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <!--Copyright 2019git.training-->
 <head>
+<<<<<<< HEAD
 	<title>A BAD WEBSITE</title>
+=======
+	<title>A GREAT WEBSITE</title>
+>>>>>>> realwork
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -15,7 +19,11 @@
 	<main class="container">
 	<!-- Content Goes Here -->
 		<p>
+<<<<<<< HEAD
+			wjaukwdakskwq
+=======
 			some interesting stuff goes here
+>>>>>>> realwork
 		</p>
 	</main>
 	<footer class="container">
